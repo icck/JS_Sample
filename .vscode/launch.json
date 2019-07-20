@@ -7,6 +7,12 @@
         {
             "type": "node",
             "request": "launch",
+            "name": "ifsample",
+            "program": "${workspaceFolder}/ifsample.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
             "name": "errconfirm",
             "program": "${workspaceFolder}/errconfirm.js"
         },
