@@ -6,6 +6,8 @@ createMl();
 
 let createarg = (arg) => {
     console.log(String(arg) + 'output')
+    log = `test${arg}test`
+    console.log(`test${arg}test`)
 };
 
 createarg();
