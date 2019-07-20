@@ -7,6 +7,12 @@
         {
             "type": "node",
             "request": "launch",
+            "name": "FizzBuzz",
+            "program": "${workspaceFolder}/FizzBuzz.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
             "name": "ifsample",
             "program": "${workspaceFolder}/ifsample.js"
         },
