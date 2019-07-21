@@ -7,6 +7,12 @@
         {
             "type": "node",
             "request": "launch",
+            "name": "return_func",
+            "program": "${workspaceFolder}/return_func.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
             "name": "method",
             "program": "${workspaceFolder}/method.js"
         },
