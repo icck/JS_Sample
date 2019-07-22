@@ -7,6 +7,12 @@
         {
             "type": "node",
             "request": "launch",
+            "name": "levelUp/funcArgs",
+            "program": "${workspaceFolder}/levelUp/funcArgs.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
             "name": "levelUp/func",
             "program": "${workspaceFolder}/levelUp/func.js"
         },
