@@ -7,6 +7,12 @@
         {
             "type": "node",
             "request": "launch",
+            "name": "levelUp/func",
+            "program": "${workspaceFolder}/levelUp/func.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
             "name": "ob_set",
             "program": "${workspaceFolder}/ob_set.js"
         },
