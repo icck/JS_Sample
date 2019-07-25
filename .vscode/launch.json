@@ -7,6 +7,12 @@
         {
             "type": "node",
             "request": "launch",
+            "name": "levelUp/map",
+            "program": "${workspaceFolder}/levelUp/map.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
             "name": "levelUp/class",
             "program": "${workspaceFolder}/levelUp/class.js"
         },
