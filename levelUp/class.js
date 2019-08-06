@@ -21,6 +21,7 @@ class Athlate extends Person {
     constructor(name, sports) {
         super(name);
         this.sports = sports;
+
     }
 
     // override
